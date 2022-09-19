@@ -1,1 +1,0 @@
-# FUDAM-model-v.1
